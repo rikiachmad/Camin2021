@@ -300,8 +300,8 @@ form.addEventListener('submit', function(e) {
 - Jadikan google sebagai teman kalian
 
 #### Penilaian Kelompok
-- Implementasi Fitur Utama penugasan 0-75
-- Kreativitas (Subjektif) 0-25
+- Implementasi Fitur Utama Penugasan
+- Kreativitas
 
 #### Penilaian Individu
 - Kontribusi terhadap kelompok melalui commit pada repository
